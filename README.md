@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, this is DC 👋
+
+Former R&D Engineer at Hewlett-Packard gone Cryptonian since Jan'21. Passioned about DeFi and building a decentralized future.
+
+                                        ✨ Currenly building at the Chainlink Hackaton ✨
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy" width="100"/>
+</div>
 
 <!--
 **fields93/fields93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
