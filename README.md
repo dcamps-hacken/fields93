@@ -4,7 +4,7 @@ Former R&D Engineer at Hewlett-Packard gone Cryptonian since Jan'21. Passioned a
 
                                         ✨ Currenly building at the Chainlink Hackaton ✨
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy" width="100"/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davidcampsnovi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@fields_93)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](davidcamps67@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@fields93)  
 </div>
 
 <!--
