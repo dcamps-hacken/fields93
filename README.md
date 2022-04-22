@@ -1,5 +1,7 @@
 # Hi there, I'm DC 👋
 
+### A Solidity Smart Contract Developer
+
 Former R&D Engineer at Hewlett-Packard gone Cryptonian since Jan'21. Passioned about DeFi and building a decentralized future.
 
                                         ✨ Currenly building at the Chainlink Hackaton ✨
