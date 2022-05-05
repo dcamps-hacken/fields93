@@ -1,4 +1,4 @@
-# Hi there, I'm David!👋
+# Hey there, I'm David!👋
 
 ### ⚡Solidity Smart Contract Developer⚡
 #
