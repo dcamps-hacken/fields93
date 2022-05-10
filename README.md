@@ -12,7 +12,7 @@
 
 - 💻 Former R&D engineer at Hewlett-Packard.
 
-- ✨ Currenly building an NFT ticketing platform at the Chainlink Hackaton
+- ✨ Currenly building at <b>Chainlink</b> and <b>ETHGlobal</b> Hackatons
 
 
 
