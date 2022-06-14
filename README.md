@@ -6,20 +6,17 @@
 
 
 
-- 😄 I am a young dev from Barcelona, Spain (CET). 
-
-- 🌱 Cryptonian since early 2021, passioned about DeFi and building a decentralized future. 
+- 😄 I am deveveloper from Barcelona, Spain (CET). 
 
 - 💻 Former R&D engineer at Hewlett-Packard.
 
-- ✨ Currenly building at <b>Chainlink</b> and <b>ETHGlobal</b> Hackatons
-
+- 🌱 Cryptonian since early 2021, passioned about DeFi and building a decentralized future. 
 
 
 ## Experience & Skills
 - Solidity & EVM
 - Metamask, Remix, Hardhat, VSCode, Git
-- <b>TOOLS</b> --> Etherscan, OpenZeppelin -ERC20, ERC721, ERC1155-, Chainlink data feeds & VRF, TheGraph, IPFS, Filecoin
+- <b>TOOLS</b> --> Etherscan, OpenZeppelin -ERC20, ERC721, ERC1155-, Chainlink -data feeds, VRF, keepers-, IPFS, Filecoin
 - <b>CHAINS</b> --> Ethereum, Polygon, BSC, Fantom, Avalanche, ZKSync, Arbitrum
 - <b>DEFI</b> --> CEX, DEX, AMMs, LPs, Staking, Yield Farming, Flash Loans, Arbitrage
 - <b>NFTs</b> --> OpenSea, Enjin, NFT Tickets
