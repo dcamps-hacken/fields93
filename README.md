@@ -1,23 +1,22 @@
 # Hey there, I'm David!👋
 
 ### ⚡Solidity Smart Contract Developer⚡
-#
+
+I am a young developer from Barcelona, Spain (CET). 💻 After some years working as an R&D engineer at Hewlett-Packard, I took a break and spend some time abroad. Once back, I decided to transition towards Web3 as a Solidity Smart Contract Developer. 🌱 Since early 2021, I've been diving into the crypto space, playing around with many dApps and communities. 
 
 
+## Web3 Experience
+I have a wide user experience with many Web3 spaces - specially DeFi and NFTs -, as well as different EVM blockchains such as Ethereum, Polygon, BSC, Fantom, Avalanche, ZkSync or Arbitrum. On those different chains I gathered knowledge about AMMs, LPs, Staking, Yield Farming, Flash Loans, Arbitraging. 
 
+## Technical Skills
+As a developer I focus on building Smart Contracts in Solidity, either in simple Remix projects or complex tested ones in Hardhat. Some other tools I use are: 
+- Metamask as a wallet to deploy on testnets or mainnets.
+- Alchemy and Infura nodes to connect to blockchains.
+- VSCode and Git to develop and organize code, to be later updated on Github.
+- OpenZeppelin libraries, specially ERC20 and ERC721.
+- Chainlink tools to develop hybrid smart contracts, both Data Feeds and VRF. Soon working with Keepers.
+- IPFS and Filecoin to store some NFTs. 
 
-- 😄 I am deveveloper from Barcelona, Spain (CET). 
-
-- 💻 Former R&D engineer at Hewlett-Packard.
-
-- 🌱 Cryptonian since early 2021, passioned about DeFi and building a decentralized future. 
-
-
-## Experience & Skills
-- Solidity & EVM
-- Metamask, Remix, Hardhat, VSCode, Git
-- <b>TOOLS</b> --> Etherscan, OpenZeppelin -ERC20, ERC721, ERC1155-, Chainlink -data feeds, VRF, keepers-, IPFS, Filecoin
-- <b>CHAINS</b> --> Ethereum, Polygon, BSC, Fantom, Avalanche, ZKSync, Arbitrum
 - <b>DEFI</b> --> CEX, DEX, AMMs, LPs, Staking, Yield Farming, Flash Loans, Arbitrage
 - <b>NFTs</b> --> OpenSea, Enjin, NFT Tickets
 
