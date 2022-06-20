@@ -1,4 +1,12 @@
 <div id="socials">
+  <a href="mailto:davidcamps67@gmail.com">
+    <img src="https://github.com/fields93/readme-rss/blob/main/github-main.png" alt="Gmail" align="center"/>
+  </a>
+</div>
+
+<br>
+
+<div id="socials">
   <a href="https://discord.com/users/592730946164359180">
     <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1655727270~hmac=1bd23c9ccd1a277101ba6608b631a4b6" alt="Discord" width="50" align="right"/>
   </a>
@@ -13,37 +21,26 @@
   </a>
 </div>
 
-# Hey there, I'm David 👋 
+<br>
+
+Hey there, I'm David! 👋
 
 A former Hewlett-Packard R&D Engineer from Barcelona (CET). I entered the crypto space in early 2021 and decided to play an active role as a <b>Solidity Smart Contract Developer</b>.
 
-> I have user experience with many Web3 spaces - specially DeFi and NFTs -, as well as different EVM blockchains such as Ethereum, Polygon, BSC, Fantom, Avalanche, ZkSync or Arbitrum. On those different chains I gathered knowledge about NFTs, CEXs, DEXs, AMMs, Staking, LP, Flash Loans, Arbitraging, Launchpads and Analytics.
+My user experience extends among many Web3 spaces and communities - specially DeFi and NFTs -, as well as different EVM blockchains such as Ethereum, Polygon, BSC, Fantom, Avalanche, ZkSync and Arbitrum. I learned about NFTs, CEXs, DEXs, AMMs, Staking, LP, Flash Loans, Arbitraging, Launchpads and Analytics.
 
 
-### Technical Skills
-As a developer I focus on building Smart Contracts in Solidity, either in simple Remix projects or complex tested ones in Hardhat. Some other tools I use are: 
-
-![](https://img.shields.io/badge/tools-Metamask-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/tools-Infura&Alchemy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
->⚡Metamask -- As a wallet to deploy on testnets or mainnets.
-
->⚡Alchemy and Infura -- RPC entry points to blockchain.
-
->⚡Etherscan -- And other blockchain explorers to verify contracts, interact with them and get additional info.
-
->⚡VSCode and Git -- To develop and organize code, to be later updated on Github.
-
->⚡OpenZeppelin -- Libraries, specially ERC20 and ERC721.
-
->⚡Chainlink -- Tools to develop hybrid smart contracts, both Data Feeds and VRF. Soon working with Keepers.
-
->⚡Slither and Manticore -- From Trail of Bits to filter out smart contract vulnerabilities.
-
->⚡IPFS and Filecoin -- To store NFTs. 
-
-<br>
+### Development Skills
+- Solidity
+- Remix & Hardat
+- Metamask
+- Infura & Alchemy
+- Etherscan
+- VSCode and Git
+- OpenZeppelin
+- Chainlink
+- Slither & Manticore
+- IPFS & Filecoin
 
 # PROJECTS
 
@@ -56,11 +53,11 @@ Have a look at some of the project I've been working on. Note that some of them 
 
 | Project               | Type  | Version| Status    | Blockchains & links
 | ---                   | ---   | ---    | ---       | ---
-| [Wallet Generator](https://github.com/fields93/wallet-generator)      | DeFi  | v1.0   | ⌛️Ongoing | Ethereum's Rinkeby - Polygon's Mumbai - Gnosis Chain - ZkSync
+| [Wallet Generator](https://github.com/fields93/wallet-generator)      | DeFi  | v1.0   | ⌛️Building | Ethereum's Rinkeby <br> Polygon's Mumbai <br> Gnosis Chain <br> ZkSync
 | Little DEX                   | DeFi  |        |    ❌     |
-| ERC721 NFT Minter     | NFT   |        |    ❌     |
-| ERC20 Token Generator | DeFi  |        |    ❌     |
-
+| ERC721 NFT Minter     | NFTs |        |    ❌     |
+| ERC20 Token Generator | DeFi |        |    ❌     |
+| [RockPaperTicket](https://github.com/RockPaperTicket)      | NFTs | v1.0 | ⌛️Upgrading | Polygon's Mumbai <br> [Chainlink Hackaton 2022](https://chain.link/hackathon)
 
 
 
@@ -70,15 +67,20 @@ Have a look at some of the project I've been working on. Note that some of them 
 <!--
 **fields93/fields93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+⚡Metamask -- As a wallet to deploy on testnets or mainnets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
+⚡Alchemy and Infura -- RPC entry points to blockchain.
+
+⚡Etherscan -- And other blockchain explorers to verify contracts, interact with them and get additional info.
+
+⚡VSCode and Git -- To develop and organize code, to be later updated on Github.
+
+⚡OpenZeppelin -- Libraries, specially ERC20 and ERC721.
+
+⚡Chainlink -- Tools to develop hybrid smart contracts, both Data Feeds and VRF. Soon working with Keepers.
+
+⚡Slither and Manticore -- From Trail of Bits to filter out smart contract vulnerabilities.
+
+⚡IPFS and Filecoin -- To store NFTs. 
 
 -->
