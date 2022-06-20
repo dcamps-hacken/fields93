@@ -1,10 +1,4 @@
-<div id="socials">
-  <a href="mailto:davidcamps67@gmail.com">
-    <img src="https://github.com/fields93/readme-rss/blob/main/github-main.png" alt="Gmail" align="center"/>
-  </a>
-</div>
-
-<br>
+![David Camps Novi](https://github.com/fields93/readme-rss/blob/main/github-main.png "David Camps Novi")
 
 <div id="socials">
   <a href="https://discord.com/users/592730946164359180">
@@ -30,17 +24,25 @@ A former Hewlett-Packard R&D Engineer from Barcelona (CET). I entered the crypto
 My user experience extends among many Web3 spaces and communities - specially DeFi and NFTs -, as well as different EVM blockchains such as Ethereum, Polygon, BSC, Fantom, Avalanche, ZkSync and Arbitrum. I learned about NFTs, CEXs, DEXs, AMMs, Staking, LP, Flash Loans, Arbitraging, Launchpads and Analytics.
 
 
-### Development Skills
-- Solidity
-- Remix & Hardat
-- Metamask
-- Infura & Alchemy
-- Etherscan
-- VSCode and Git
-- OpenZeppelin
-- Chainlink
-- Slither & Manticore
-- IPFS & Filecoin
+## Tech Stack & Tools
+
+![Solidity](https://img.shields.io/badge/language-SOLIDITY-brightgreen "Solidity")
+![Python](https://img.shields.io/badge/language-PYTHON-brightgreen "Python")
+![Harhat](https://img.shields.io/badge/IDE-Hardhat-yellow "Hardhat")
+![Remix](https://img.shields.io/badge/IDE-Remix-yellow "Remix")
+![OpenZeppelin](https://img.shields.io/badge/library-OpenZeppelin-blueviolet "OpenZeppelin")
+![Chainlink](https://img.shields.io/badge/oracle-Chainlink-blue "Chainlink")
+![Infura](https://img.shields.io/badge/node-Infura-yellowgreen "Infura")
+![Alchemy](https://img.shields.io/badge/node-Alchemy-yellowgreen "Alchemy")
+![Slither](https://img.shields.io/badge/audit-Slither-red "Slither")
+![Manticore](https://img.shields.io/badge/audit-Manticore-red "Manticore")
+![Metamask](https://img.shields.io/badge/tool-Metamask-9cf "Metamask")
+![Etherscan](https://img.shields.io/badge/tool-Etherscan-9cf "Etherscan")
+![Git](https://img.shields.io/badge/tool-Git-9cf "Git")
+![VSCode](https://img.shields.io/badge/tool-VSCode-9cf "VSCode")
+![IPFS](https://img.shields.io/badge/tool-IPFS-9cf "IPFS")
+![Filecoin](https://img.shields.io/badge/tool-Filecoin-9cf "Filecoin")
+
 
 # PROJECTS
 
@@ -80,5 +82,15 @@ Have a look at some of the project I've been working on. Note that some of them 
 ⚡Slither and Manticore -- From Trail of Bits to filter out smart contract vulnerabilities.
 
 ⚡IPFS and Filecoin -- To store NFTs. 
+- Solidity 
+- Remix & Hardat
+- Metamask
+- Infura & Alchemy
+- Etherscan
+- VSCode and Git
+- OpenZeppelin
+- Chainlink
+- Slither & Manticore
+- IPFS & Filecoin
 
 -->
