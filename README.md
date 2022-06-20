@@ -57,8 +57,6 @@ Have a look at some of the project I've been working on. Note that some of them 
 | Little DEX                   | DeFi  |        |    ❌     |
 | ERC721 NFT Minter     | NFTs |        |    ❌     |
 | ERC20 Token Generator | DeFi |        |    ❌     |
-| [RockPaperTicket](https://github.com/RockPaperTicket)      | NFTs | v1.0 | ⌛️Upgrading | Polygon's Mumbai <br> [Chainlink Hackaton 2022](https://chain.link/hackathon)
-
 
 
 
