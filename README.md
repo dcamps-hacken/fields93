@@ -43,6 +43,7 @@ My user experience extends among many Web3 spaces and communities - specially De
 ![IPFS](https://img.shields.io/badge/tool-IPFS-9cf "IPFS")
 ![Filecoin](https://img.shields.io/badge/tool-Filecoin-9cf "Filecoin")
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fields93&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # PROJECTS
 
