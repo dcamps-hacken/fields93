@@ -18,7 +18,7 @@ As a developer I focus on building Smart Contracts in Solidity, either in simple
 
 >⚡Metamask -- As a wallet to deploy on testnets or mainnets.
 
->⚡Alchemy and Infura -- Nodes to connect to blockchains.
+>⚡Alchemy and Infura -- RPC entry points to blockchain.
 
 >⚡Etherscan -- And other blockchain explorers to verify contracts, interact with them and get additional info.
 
