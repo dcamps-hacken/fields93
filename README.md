@@ -1,20 +1,31 @@
-# I'm David, a Solidity Smart Contract Developer 👋
+<div id="socials">
+  <a href="https://discord.com/users/592730946164359180">
+    <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1655727270~hmac=1bd23c9ccd1a277101ba6608b631a4b6" alt="Discord" width="50" align="right"/>
+  </a>
+  <a href="https://t.me/fields93">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" alt="Telegram" width="50" align="right"/>
+  </a>
+  <a href="https://www.linkedin.com/in/davidcampsnovi/">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="50" align="right"/>
+  </a>
+  <a href="mailto:davidcamps67@gmail.com">
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" alt="Gmail" width="50" align="right"/>
+  </a>
+</div>
 
-🌍 I am a developer from Barcelona, Spain (CET). 
+# Hey there, I'm David 👋 
 
-💻 After some years working as an R&D engineer at Hewlett-Packard, I took a break and spend some time abroad. Once back, I decided to transition towards Web3 as a Solidity Smart Contract Developer. 
+A former Hewlett-Packard R&D Engineer from Barcelona (CET). I entered the crypto space in early 2021 and decided to play an active role as a <b>Solidity Smart Contract Developer</b>.
 
-🌱 Since early 2021, I've been diving into the crypto space, playing around with many dApps and communities. 
-
-
-## Web3 Experience
-I have a wide user experience with many Web3 spaces - specially DeFi and NFTs -, as well as different EVM blockchains such as Ethereum, Polygon, BSC, Fantom, Avalanche, ZkSync or Arbitrum. 
-
-On those different chains I gathered knowledge about NFTs, CEXs, DEXs, AMMs, Staking, LP, Flash Loans, Arbitraging, Launchpads and Analytics.
+> I have user experience with many Web3 spaces - specially DeFi and NFTs -, as well as different EVM blockchains such as Ethereum, Polygon, BSC, Fantom, Avalanche, ZkSync or Arbitrum. On those different chains I gathered knowledge about NFTs, CEXs, DEXs, AMMs, Staking, LP, Flash Loans, Arbitraging, Launchpads and Analytics.
 
 
-## Technical Skills
+### Technical Skills
 As a developer I focus on building Smart Contracts in Solidity, either in simple Remix projects or complex tested ones in Hardhat. Some other tools I use are: 
+
+![](https://img.shields.io/badge/tools-Metamask-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/tools-Infura&Alchemy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 >⚡Metamask -- As a wallet to deploy on testnets or mainnets.
 
@@ -52,8 +63,7 @@ Have a look at some of the project I've been working on. Note that some of them 
 
 
 
-## Contact me
-<a href="mailto:davidcamps67@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://www.linkedin.com/in/davidcampsnovi/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://t.me/fields93"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></a><a href="https://discord.com/users/592730946164359180"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a><a href="https://twitter.com/fields_93"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+
 
   
 
