@@ -12,24 +12,45 @@ I have a wide user experience with many Web3 spaces - specially DeFi and NFTs -,
 
 On those different chains I gathered knowledge about NFTs, CEXs, DEXs, AMMs, Staking, LP, Flash Loans, Arbitraging, Launchpads and Analytics.
 
+
 ## Technical Skills
 As a developer I focus on building Smart Contracts in Solidity, either in simple Remix projects or complex tested ones in Hardhat. Some other tools I use are: 
 
-⚡Metamask -- As a wallet to deploy on testnets or mainnets.
+>⚡Metamask -- As a wallet to deploy on testnets or mainnets.
 
-⚡Alchemy and Infura -- Nodes to connect to blockchains.
+>⚡Alchemy and Infura -- Nodes to connect to blockchains.
 
-⚡Etherscan -- And other blockchain explorers to verify contracts, interact with them and get additional info.
+>⚡Etherscan -- And other blockchain explorers to verify contracts, interact with them and get additional info.
 
-⚡VSCode and Git -- To develop and organize code, to be later updated on Github.
+>⚡VSCode and Git -- To develop and organize code, to be later updated on Github.
 
-⚡OpenZeppelin -- Libraries, specially ERC20 and ERC721.
+>⚡OpenZeppelin -- Libraries, specially ERC20 and ERC721.
 
-⚡Chainlink -- Tools to develop hybrid smart contracts, both Data Feeds and VRF. Soon working with Keepers.
+>⚡Chainlink -- Tools to develop hybrid smart contracts, both Data Feeds and VRF. Soon working with Keepers.
 
-⚡Slither and Manticore -- From Trail of Bits to filter out smart contract vulnerabilities.
+>⚡Slither and Manticore -- From Trail of Bits to filter out smart contract vulnerabilities.
 
-⚡IPFS and Filecoin -- To store NFTs. 
+>⚡IPFS and Filecoin -- To store NFTs. 
+
+<br>
+
+# PROJECTS
+
+Have a look at some of the project I've been working on. Note that some of them are still under construction... Enjoy!😄
+
+1. Click on a project to find its repository and documentation
+2. Click on a chain to interact with the project's contract on chain
+
+<br>
+
+| Project               | Type  | Version| Status    | Blockchains & links
+| ---                   | ---   | ---    | ---       | ---
+| [Wallet Generator](https://github.com/fields93/wallet-generator)      | DeFi  | v1.0   | ⌛️Ongoing | Ethereum's Rinkeby - Polygon's Mumbai - Gnosis Chain - ZkSync
+| Little DEX                   | DeFi  |        |    ❌     |
+| ERC721 NFT Minter     | NFT   |        |    ❌     |
+| ERC20 Token Generator | DeFi  |        |    ❌     |
+
+
 
 ## Contact me
 <a href="mailto:davidcamps67@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://www.linkedin.com/in/davidcampsnovi/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://t.me/fields93"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></a><a href="https://discord.com/users/592730946164359180"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a><a href="https://twitter.com/fields_93"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
@@ -47,7 +68,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 
 -->
