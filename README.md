@@ -26,8 +26,9 @@ My user experience extends among many Web3 spaces and communities - specially De
 
 ## Tech Stack & Tools
 
-![Solidity](https://img.shields.io/badge/language-SOLIDITY-brightgreen "Solidity")
-![Python](https://img.shields.io/badge/language-PYTHON-brightgreen "Python")
+![Solidity](https://img.shields.io/badge/language-Solidity-brightgreen "Solidity")
+![JavaScript](https://img.shields.io/badge/language-JavaScript-brightgreen "JavaScript")
+![Python](https://img.shields.io/badge/language-Python-brightgreen "Python")
 ![Harhat](https://img.shields.io/badge/IDE-Hardhat-yellow "Hardhat")
 ![Remix](https://img.shields.io/badge/IDE-Remix-yellow "Remix")
 ![OpenZeppelin](https://img.shields.io/badge/library-OpenZeppelin-blueviolet "OpenZeppelin")
@@ -42,8 +43,6 @@ My user experience extends among many Web3 spaces and communities - specially De
 ![VSCode](https://img.shields.io/badge/tool-VSCode-9cf "VSCode")
 ![IPFS](https://img.shields.io/badge/tool-IPFS-9cf "IPFS")
 ![Filecoin](https://img.shields.io/badge/tool-Filecoin-9cf "Filecoin")
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fields93&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # PROJECTS
 
