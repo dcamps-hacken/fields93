@@ -23,7 +23,7 @@ Hey there, I'm David! 👋
 
 A former Hewlett-Packard R&D Engineer from Barcelona (CET). I entered the crypto space in early 2021 and decided to play an active role as a <b>Solidity Smart Contract Developer</b>.
 
-My user experience extends among many Web3 spaces and communities - specially DeFi and NFTs -, as well as different EVM blockchains such as Ethereum, Polygon, BSC, Fantom, Avalanche, ZkSync and Arbitrum. I learned about NFTs, CEXs, DEXs, AMMs, Staking, LP, Flash Loans, Arbitraging, Launchpads and Analytics.
+My experience extends among many Web3 spaces and communities - specially DeFi and NFTs -, as well as different EVM blockchains such as Ethereum, Polygon, BSC, Fantom, Avalanche, ZkSync and Arbitrum. Knowledge I gathered includes NFTs, CEXs, DEXs, AMMs, Staking, LP, Flash Loans, Arbitraging, Launchpads and Analytics.
 
 <br>
 
