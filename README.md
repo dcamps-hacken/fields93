@@ -17,6 +17,7 @@
 
 <br>
 <br>
+<br>
 
 Hey there, I'm David! 👋
 
@@ -24,6 +25,7 @@ A former Hewlett-Packard R&D Engineer from Barcelona (CET). I entered the crypto
 
 My user experience extends among many Web3 spaces and communities - specially DeFi and NFTs -, as well as different EVM blockchains such as Ethereum, Polygon, BSC, Fantom, Avalanche, ZkSync and Arbitrum. I learned about NFTs, CEXs, DEXs, AMMs, Staking, LP, Flash Loans, Arbitraging, Launchpads and Analytics.
 
+<br>
 
 ## Tech Stack & Tools
 
@@ -42,6 +44,8 @@ My user experience extends among many Web3 spaces and communities - specially De
 ![VSCode](https://img.shields.io/badge/tool-VSCode-9cf "VSCode")
 ![IPFS](https://img.shields.io/badge/tool-IPFS-9cf "IPFS")
 ![Filecoin](https://img.shields.io/badge/tool-Filecoin-9cf "Filecoin")
+
+<br>
 
 # PROJECTS
 
