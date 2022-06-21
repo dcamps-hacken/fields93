@@ -16,6 +16,7 @@
 </div>
 
 <br>
+<br>
 
 Hey there, I'm David! 👋
 
@@ -27,8 +28,6 @@ My user experience extends among many Web3 spaces and communities - specially De
 ## Tech Stack & Tools
 
 ![Solidity](https://img.shields.io/badge/language-Solidity-brightgreen "Solidity")
-![JavaScript](https://img.shields.io/badge/language-JavaScript-brightgreen "JavaScript")
-![Python](https://img.shields.io/badge/language-Python-brightgreen "Python")
 ![Harhat](https://img.shields.io/badge/IDE-Hardhat-yellow "Hardhat")
 ![Remix](https://img.shields.io/badge/IDE-Remix-yellow "Remix")
 ![OpenZeppelin](https://img.shields.io/badge/library-OpenZeppelin-blueviolet "OpenZeppelin")
@@ -53,12 +52,9 @@ Have a look at some of the project I've been working on. Note that some of them 
 
 <br>
 
-| Project               | Type  | Version| Status    | Blockchains & links
-| ---                   | ---   | ---    | ---       | ---
-| [Wallet Generator](https://github.com/fields93/wallet-generator)      | DeFi  | v1.0   | ⌛️Building | Ethereum's Rinkeby <br> Polygon's Mumbai <br> Gnosis Chain <br> ZkSync
-| Little DEX                   | DeFi  |        |    ❌     |
-| ERC721 NFT Minter     | NFTs |        |    ❌     |
-| ERC20 Token Generator | DeFi |        |    ❌     |
+| Project                   | Description     | Status        | Deployments
+| ---                       | ---             | ---           | ---
+| [Wallet Generator](https://github.com/fields93/wallet-generator)| Factory contract to generate Simple, Destroyable and Multisig wallets |⌛️Building | Rinkeby - Mumbai - Gnosis - ZkSync
 
 
 
