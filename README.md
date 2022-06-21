@@ -2,20 +2,19 @@
 
 <div id="socials">
   <a href="https://discord.com/users/592730946164359180">
-    <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1655727270~hmac=1bd23c9ccd1a277101ba6608b631a4b6" alt="Discord" width="50" align="right"/>
+    <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1655727270~hmac=1bd23c9ccd1a277101ba6608b631a4b6" alt="Discord" width="30" align="right"/>
   </a>
   <a href="https://t.me/fields93">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" alt="Telegram" width="50" align="right"/>
+    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" alt="Telegram" width="30" align="right"/>
   </a>
   <a href="https://www.linkedin.com/in/davidcampsnovi/">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="50" align="right"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="30" align="right"/>
   </a>
   <a href="mailto:davidcamps67@gmail.com">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" alt="Gmail" width="50" align="right"/>
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" alt="Gmail" width="30" align="right"/>
   </a>
 </div>
 
-<br>
 <br>
 <br>
 
