@@ -29,6 +29,8 @@ My experience extends among many Web3 spaces and communities - specially DeFi an
 ## Tech Stack & Tools
 
 ![Solidity](https://img.shields.io/badge/language-Solidity-brightgreen "Solidity")
+![JavaScript](https://img.shields.io/badge/language-JavaScript-brightgreen "JavaScript")
+![Python](https://img.shields.io/badge/language-Python-brightgreen "Python")
 ![Harhat](https://img.shields.io/badge/IDE-Hardhat-yellow "Hardhat")
 ![Remix](https://img.shields.io/badge/IDE-Remix-yellow "Remix")
 ![OpenZeppelin](https://img.shields.io/badge/library-OpenZeppelin-blueviolet "OpenZeppelin")
