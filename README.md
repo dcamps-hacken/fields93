@@ -60,7 +60,7 @@ Have a look at some of the project I've been working on. Note that some of them 
 | Project                   | Description     | Status        | Deployments
 | ---                       | ---             | ---           | ---     
 | [Wallet Generator](https://github.com/fields93/wallet-generator)| Factory contract to create Simple, Destroyable and Multisig wallets |⌛️under construction | TBD
-| [Oracle DEX](https://github.com/fields93/simple-oracle-DEX) | Simple DEX for swaping and staking tokens that uses Chainlink Data Feeds, VRF and Keepers |⌛️under construction | Rinkeby - Mumbai - Gnosis - ZkSync
+| [Oracle DEX](https://github.com/fields93/simple-oracle-DEX) | Simple DEX for swaping and staking ERC20 tokens. Uses Chainlink Data Feeds and VRF |⌛️under construction | Rinkeby - Mumbai - Gnosis - ZkSync
 
 
 
