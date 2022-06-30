@@ -35,6 +35,9 @@ My experience extends among many Web3 spaces and communities - specially DeFi an
 ![Remix](https://img.shields.io/badge/IDE-Remix-yellow "Remix")
 ![OpenZeppelin](https://img.shields.io/badge/library-OpenZeppelin-blueviolet "OpenZeppelin")
 ![Chainlink](https://img.shields.io/badge/oracle-Chainlink-blue "Chainlink")
+![DataFeeds](https://img.shields.io/badge/oracle-DataFeeds-blue "DataFeeds")
+![VRF](https://img.shields.io/badge/oracle-VRF-blue "VRF")
+![Keepers](https://img.shields.io/badge/oracle-Keepers-blue "Keepers")
 ![Infura](https://img.shields.io/badge/node-Infura-yellowgreen "Infura")
 ![Alchemy](https://img.shields.io/badge/node-Alchemy-yellowgreen "Alchemy")
 ![Slither](https://img.shields.io/badge/audit-Slither-red "Slither")
@@ -60,7 +63,7 @@ Have a look at some of the project I've been working on. Note that some of them 
 | Project                   | Description     | Status        | Deployments
 | ---                       | ---             | ---           | ---     
 | [Wallet Generator](https://github.com/fields93/wallet-generator)| Factory contract to create Simple, Destroyable and Multisig wallets |⌛️under construction | TBD
-| [Oracle DEX](https://github.com/fields93/simple-oracle-DEX) | Simple DEX for swaping and staking ERC20 tokens. Uses Chainlink Data Feeds and VRF |⌛️under construction | Ethereum Rinkeby - Polygon Mumbai - Avalanche Fuji
+| [Oracle DEX](https://github.com/fields93/simple-oracle-DEX) | Simple DEX for swaping and staking ERC20 tokens. Uses Chainlink Data Feeds, VRF and Keepers |⌛️under construction | Ethereum Rinkeby - Polygon Mumbai - Avalanche Fuji
 
 
 
