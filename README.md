@@ -64,7 +64,7 @@ Have a look at some of the project I've been working on. Note that some of them 
 | ---                       | ---             | ---           | ---     
 | [Wallet Generator](https://github.com/fields93/wallet-generator)| Factory contract to create Simple, Destroyable and Multisig wallets |⌛️under construction | TBD
 | [Oracle DEX](https://github.com/fields93/simple-oracle-DEX) | Simple DEX for swaping and staking ERC20 tokens. Uses Chainlink Data Feeds, VRF and Keepers |⌛️under construction | Ethereum Rinkeby - Polygon Mumbai - Avalanche Fuji
-
+| ERC20 tokens| Test ERC20 tokens to interact with the Oracle DEX project | ✅ deployed | Rinkeby: [USD](https://rinkeby.etherscan.io/address/0x028e1FbF1F05A860907C5C2ffC424A6d9AcdB06A#code), [ELF](https://rinkeby.etherscan.io/address/0x6A7e8945a07bb35657BA8A9D63983Cd59Ed9e077#code), [WZD](https://rinkeby.etherscan.io/address/0xb402bc6b5776e4a6e5291d052972e10578c9f71a)
 
 
   
