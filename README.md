@@ -60,11 +60,12 @@ Have a look at some of the project I've been working on. Note that some of them 
 
 <br>
 
-| Project                   | Description     | Status            | Deployments
 | ---                       | ---             | ---               | ---     
-| [ERC20 tokens](https://github.com/fields93/erc20-tokens)| Test ERC20 tokens to interact with the Oracle DEX project | ⌛️readme <br> ✅deployed <br> ✅tests <br> ❌ tasks  | Rinkeby: [USD](https://rinkeby.etherscan.io/address/0x028e1FbF1F05A860907C5C2ffC424A6d9AcdB06A#code), [ELF](https://rinkeby.etherscan.io/address/0x6A7e8945a07bb35657BA8A9D63983Cd59Ed9e077#code), [WZD](https://rinkeby.etherscan.io/address/0xb402bc6b5776e4a6e5291d052972e10578c9f71a)
-| [Oracle DEX](https://github.com/fields93/simple-oracle-DEX) | Simple DEX for swaping and staking ERC20 tokens. Uses Chainlink Data Feeds, VRF and Keepers |⌛️readme <br> ❌deployed <br> ⌛️tests <br> ❌ tasks  | Ethereum Rinkeby - Polygon Mumbai - Avalanche Fuji
-| [Wallet Generator](https://github.com/fields93/wallet-generator)| Factory contract to create Simple, Destroyable and Multisig wallets |⌛️readme <br> ❌deployed <br> ⌛️tests <br> ❌ tasks  | TBD
+| Project                   | Description     | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | Deployments
+| ---                       | ---             | ---               | ---     
+| [ERC20 tokens](https://github.com/fields93/erc20-tokens)| Test ERC20 tokens to interact with the Oracle DEX project. | ⌛️readme <br> ✅deployed <br> ✅tests <br> ❌ tasks  | Rinkeby: [USD](https://rinkeby.etherscan.io/address/0x028e1FbF1F05A860907C5C2ffC424A6d9AcdB06A#code), [ELF](https://rinkeby.etherscan.io/address/0x6A7e8945a07bb35657BA8A9D63983Cd59Ed9e077#code), [WZD](https://rinkeby.etherscan.io/address/0xb402bc6b5776e4a6e5291d052972e10578c9f71a)
+| [Oracle DEX](https://github.com/fields93/simple-oracle-DEX) | Simple DEX for swaping and staking ERC20 tokens. <br>Uses Chainlink Data Feeds, VRF and Keepers. |⌛️readme <br> ❌deployed <br> ⌛️tests <br> ❌ tasks  | Ethereum Rinkeby - Polygon Mumbai - Avalanche Fuji
+| [Wallet Generator](https://github.com/fields93/wallet-generator)| Factory contract to create Simple, Destroyable and Multisig wallets. |⌛️readme <br> ❌deployed <br> ⌛️tests <br> ❌ tasks  | TBD
   
 
 <!--
