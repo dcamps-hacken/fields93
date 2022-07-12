@@ -64,7 +64,7 @@ Have a look at some of the project I've been working on. Note that some of them 
 
 | Project                   | Description     | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | Deployments
 | ---                       | ---             | ---               | ---     
-| [ERC20 tokens](https://github.com/fields93/erc20-tokens)| Test ERC20 tokens to interact with the Oracle DEX project. | ⌛️readme <br> ✅deployed <br> ✅tests <br> ❌ tasks  | Rinkeby: [USD](https://rinkeby.etherscan.io/address/0x81f7f9be026841b133bfF7F96EC97c330048E38b#code), [WZD](https://rinkeby.etherscan.io/address/0x15329cB93f68EF6431Ca449710eCACf32B9f0B26#code), [ELF](https://rinkeby.etherscan.io/address/0x2d38BFb20Ec8Cc08ba0D4fC15441Ff289EF10dCE#code)
+| [ERC20 tokens](https://github.com/fields93/erc20-tokens)| Test ERC20 tokens to interact with the Oracle DEX project. | ⌛️readme <br> ✅deployed <br> ✅tests <br> ✅ tasks  | Rinkeby: [USD](https://rinkeby.etherscan.io/address/0x81f7f9be026841b133bfF7F96EC97c330048E38b#code), [WZD](https://rinkeby.etherscan.io/address/0x15329cB93f68EF6431Ca449710eCACf32B9f0B26#code), [ELF](https://rinkeby.etherscan.io/address/0x2d38BFb20Ec8Cc08ba0D4fC15441Ff289EF10dCE#code)
 | [Oracle DEX](https://github.com/fields93/simple-oracle-DEX) | Simple DEX for swaping and staking ERC20 tokens. Uses Chainlink Data Feeds, VRF and Keepers. |⌛️readme <br> ❌deployed <br> ⌛️tests <br> ❌ tasks  | Ethereum Rinkeby - Polygon Mumbai - Avalanche Fuji
 | [Wallet Generator](https://github.com/fields93/wallet-generator)| Factory contract to create Simple, Destroyable and Multisig wallets. |⌛️readme <br> ❌deployed <br> ⌛️tests <br> ❌ tasks  | TBD
   
