@@ -24,6 +24,8 @@ A former Hewlett-Packard R&D Engineer from Barcelona (CET). I entered the crypto
 
 My experience extends among many Web3 spaces and communities - specially DeFi and NFTs -, as well as different EVM blockchains such as Ethereum, Polygon, BSC, Fantom, Avalanche, ZkSync and Arbitrum. Knowledge I gathered includes NFTs, CEXs, DEXs, AMMs, Staking, LP, Flash Loans, Arbitraging, Launchpads and Analytics.
 
+🏆 ETH Barcelona Hackaton Winner 2022
+
 <br>
 
 ## Tech Stack & Tools
