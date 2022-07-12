@@ -1,9 +1,6 @@
 ![David Camps Novi](https://github.com/fields93/readme-rss/blob/main/github-main.png "David Camps Novi")
 
 <div id="socials">
-  <a href="https://discord.com/users/592730946164359180">
-    <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1655727270~hmac=1bd23c9ccd1a277101ba6608b631a4b6" alt="Discord" width="30" align="right"/>
-  </a>
   <a href="https://t.me/fields93">
     <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" alt="Telegram" width="30" align="right"/>
   </a>
