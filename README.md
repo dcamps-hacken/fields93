@@ -33,6 +33,8 @@ My experience extends among many Web3 spaces and communities - specially DeFi an
 ![Harhat](https://img.shields.io/badge/IDE-Hardhat-yellow "Hardhat")
 ![Remix](https://img.shields.io/badge/IDE-Remix-yellow "Remix")
 ![OpenZeppelin](https://img.shields.io/badge/library-OpenZeppelin-blueviolet "OpenZeppelin")
+![ERC20](https://img.shields.io/badge/library-ERC20-blueviolet "ERC20")
+![ERC721](https://img.shields.io/badge/library-ERC721-blueviolet "ERC721")
 ![Chainlink](https://img.shields.io/badge/oracle-Chainlink-blue "Chainlink")
 ![DataFeeds](https://img.shields.io/badge/oracle-DataFeeds-blue "DataFeeds")
 ![VRF](https://img.shields.io/badge/oracle-VRF-blue "VRF")
@@ -40,13 +42,10 @@ My experience extends among many Web3 spaces and communities - specially DeFi an
 ![Infura](https://img.shields.io/badge/node-Infura-yellowgreen "Infura")
 ![Alchemy](https://img.shields.io/badge/node-Alchemy-yellowgreen "Alchemy")
 ![Slither](https://img.shields.io/badge/audit-Slither-red "Slither")
-![Manticore](https://img.shields.io/badge/audit-Manticore-red "Manticore")
 ![Metamask](https://img.shields.io/badge/tool-Metamask-9cf "Metamask")
 ![Etherscan](https://img.shields.io/badge/tool-Etherscan-9cf "Etherscan")
 ![Git](https://img.shields.io/badge/tool-Git-9cf "Git")
 ![VSCode](https://img.shields.io/badge/tool-VSCode-9cf "VSCode")
-![IPFS](https://img.shields.io/badge/tool-IPFS-9cf "IPFS")
-![Filecoin](https://img.shields.io/badge/tool-Filecoin-9cf "Filecoin")
 
 <br>
 
@@ -95,4 +94,7 @@ Have a look at some of the project I've been working on. Note that some of them 
 - Slither & Manticore
 - IPFS & Filecoin
 
+![Manticore](https://img.shields.io/badge/audit-Manticore-red "Manticore")
+![IPFS](https://img.shields.io/badge/tool-IPFS-9cf "IPFS")
+![Filecoin](https://img.shields.io/badge/tool-Filecoin-9cf "Filecoin")
 -->
