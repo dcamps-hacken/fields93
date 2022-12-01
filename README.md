@@ -1,27 +1,18 @@
-![David Camps Novi](https://github.com/fields93/readme-rss/blob/main/github-main.png "David Camps Novi")
-
 <div id="socials">
-  <a href="https://t.me/fields93">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" alt="Telegram" width="30" align="right"/>
-  </a>
-  <a href="https://www.linkedin.com/in/davidcampsnovi/">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="30" align="right"/>
-  </a>
   <a href="mailto:davidcamps67@gmail.com">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" alt="Gmail" width="30" align="right"/>
   </a>
 </div>
 
 <br>
-<br>
-
 Hey there, I'm David! 👋
 
-A former Hewlett-Packard R&D Engineer from Barcelona (CET). I entered the crypto space in early 2021 and decided to play an active role as a <b>Solidity Smart Contract Developer</b>.
+<br>
+<br>
+
+A Solidity Smart Contracts Auditor and former Hewlett-Packard R&D Engineer from Barcelona (CET). I entered the crypto space in early 2021 and decided to play an active role as a <b>Solidity Smart Contract Developer</b>.
 
 My experience extends among many Web3 spaces and communities - specially DeFi and NFTs -, as well as different EVM blockchains such as Ethereum, Polygon, BSC, Fantom, Avalanche, ZkSync and Arbitrum. Knowledge I gathered includes NFTs, CEXs, DEXs, AMMs, Staking, LP, Flash Loans, Arbitraging, Launchpads and Analytics.
-
-🏆 ETH Barcelona Hackaton Winner 2022
 
 <br>
 
@@ -36,12 +27,10 @@ My experience extends among many Web3 spaces and communities - specially DeFi an
 ![ERC20](https://img.shields.io/badge/library-ERC20-blueviolet "ERC20")
 ![ERC721](https://img.shields.io/badge/library-ERC721-blueviolet "ERC721")
 ![Chainlink](https://img.shields.io/badge/oracle-Chainlink-blue "Chainlink")
-![DataFeeds](https://img.shields.io/badge/oracle-DataFeeds-blue "DataFeeds")
-![VRF](https://img.shields.io/badge/oracle-VRF-blue "VRF")
-![Keepers](https://img.shields.io/badge/oracle-Keepers-blue "Keepers")
 ![Infura](https://img.shields.io/badge/node-Infura-yellowgreen "Infura")
 ![Alchemy](https://img.shields.io/badge/node-Alchemy-yellowgreen "Alchemy")
 ![Slither](https://img.shields.io/badge/audit-Slither-red "Slither")
+![MythX](https://img.shields.io/badge/audit-MythX-red "MythX")
 ![Metamask](https://img.shields.io/badge/tool-Metamask-9cf "Metamask")
 ![Etherscan](https://img.shields.io/badge/tool-Etherscan-9cf "Etherscan")
 ![Git](https://img.shields.io/badge/tool-Git-9cf "Git")
@@ -51,20 +40,14 @@ My experience extends among many Web3 spaces and communities - specially DeFi an
 
 # PROJECTS
 
-Have a look at some of the project I've been working on. Note that some of them are still under construction... Enjoy!😄
-
-1. Click on a project to find its repository and documentation
-2. Click on a chain to interact with the project's contract on chain
+Have a look at some of my demo projects... Enjoy!😄
 
 <br>
 
 | Project                   | Description     | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | Deployments
 | ---                       | ---             | ---               | ---     
 | [Staking bank](https://github.com/fields93/staking-bank)| DeFi project of a staking bank to yield some ERC20 tokens over time from your deposits . | ✅readme <br> ✅deployed <br> ✅tests <br> ✅tasks| Rinkeby: <br> [Bank contract](https://rinkeby.etherscan.io/address/0x4B146B7AFcF4f5D74faedb71d6Ab41A7FF5ECa9e#code) <br> [Wizard ERC20](https://rinkeby.etherscan.io/address/0xa3048a8e2aabbdce7a47685b8991ee58eecee47f#code)
-| [Damn Vulnerable DeFi](https://github.com/fields93/damn-vulnerable-defi)| Series of challenges to practice Smart Contract security. | Challenges:<br>✅#1 <br>✅#2 <br>✅#4| -
-| [ERC20 tokens](https://github.com/fields93/erc20-tokens)| Test ERC20 tokens to interact with the Oracle DEX project. | ⌛️readme <br> ✅deployed <br> ✅tests <br> ✅tasks  | Rinkeby: [USD](https://rinkeby.etherscan.io/address/0x389D184A7690833Fc86ACBA7297f79d46b0Ab9e0#code), [WZD](https://rinkeby.etherscan.io/address/0x15329cB93f68EF6431Ca449710eCACf32B9f0B26#code), [ELF](https://rinkeby.etherscan.io/address/0x2d38BFb20Ec8Cc08ba0D4fC15441Ff289EF10dCE#code) <br> Mumbai: [USD](https://mumbai.polygonscan.com/address/0x021EdbAc1699F3c9d7550946c3bCBb3D81Dff43c#code), [WZD](https://mumbai.polygonscan.com/address/0x5fEa889B4193A74F8cCf28bcc629ac32c0a83F0F#code), [ELF](https://mumbai.polygonscan.com/address/0xb21571293d325b27C425fEA0CDc7752027B4DC74#code)
-| [Oracle DEX](https://github.com/fields93/simple-oracle-DEX) | Simple DEX for swaping and staking ERC20 tokens. Uses Chainlink Data Feeds, VRF and Keepers. |⌛️readme <br> ❌deployed <br> ⌛️tests <br> ❌ tasks  | Ethereum Rinkeby - Polygon Mumbai - Avalanche Fuji
-| [Wallet Generator](https://github.com/fields93/wallet-generator)| Factory contract to create Simple, Destroyable and Multisig wallets. |⌛️readme <br> ❌deployed <br> ⌛️tests <br> ❌ tasks  | TBD
+|
   
 
 <!--
@@ -99,4 +82,16 @@ Have a look at some of the project I've been working on. Note that some of them 
 ![Manticore](https://img.shields.io/badge/audit-Manticore-red "Manticore")
 ![IPFS](https://img.shields.io/badge/tool-IPFS-9cf "IPFS")
 ![Filecoin](https://img.shields.io/badge/tool-Filecoin-9cf "Filecoin")
+
+<div id="socials">
+  <a href="https://t.me/fields93">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" alt="Telegram" width="30" align="right"/>
+  </a>
+  <a href="https://www.linkedin.com/in/davidcampsnovi/">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="30" align="right"/>
+  </a>
+  <a href="mailto:davidcamps67@gmail.com">
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" alt="Gmail" width="30" align="right"/>
+  </a>
+</div>
 -->
