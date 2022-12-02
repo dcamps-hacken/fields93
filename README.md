@@ -47,7 +47,7 @@ Have a look at some of my demo projects... Enjoy!😄
 | Project                   | Description     | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | Deployments
 | ---                       | ---             | ---               | ---     
 | [Staking bank](https://github.com/fields93/staking-bank)| DeFi project of a staking bank to yield some ERC20 tokens over time from your deposits . | ✅readme <br> ✅deployed <br> ✅tests <br> ✅tasks| Rinkeby: <br> [Bank contract](https://rinkeby.etherscan.io/address/0x4B146B7AFcF4f5D74faedb71d6Ab41A7FF5ECa9e#code) <br> [Wizard ERC20](https://rinkeby.etherscan.io/address/0xa3048a8e2aabbdce7a47685b8991ee58eecee47f#code)
-|
+
   
 
 <!--
